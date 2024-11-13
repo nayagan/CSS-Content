@@ -1,0 +1,11 @@
+In my current role as a Technical Lead at Accenture, I am responsible for managing both Azure cloud infrastructure support for our client. Specifically, I oversee a range of Azure services, including Virtual Machines, Storage Accounts, Active Directory, Keyvaults, Networking, etc.
+
+A major part of my work involves the deployment and management of Azure resources through CI/CD pipeline. I ensure these resources are optimized for performance and cost.
+
+These pipelines are crucial for ensuring seamless deployment processes from UAT to production across multiple environments. I also work with Azure Data Factory and Data Lake for data integration and orchestration tasks.
+
+Beyond these technical aspects, I provide L1/L2 support for critical applications, where I troubleshoot issues related to Azure environments(Linux and Windows). I also handle automation of routine tasks and batch jobs using PowerShell, Azure CLI, and other scripting tools. 
+
+I monitor the health of Azure resources, responding to issues proactively to maintain high uptime and system performance. 
+
+In terms of team management, I collaborate closely with both onshore and offshore teams, providing technical guidance and managing deployments across various environments.

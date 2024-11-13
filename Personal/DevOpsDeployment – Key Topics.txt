@@ -1,0 +1,116 @@
+DevOps/Deployment – Key Topics
+
+Operating Systems (OS)
+Linux
+Windows
+Troubleshooting
+Networking
+Containerization
+Docker
+Kubernetes
+Continuous Integration/Continuous Deployment (CI/CD)
+Infrastructure as Code (IaC)
+ 
+
+DevOps/Deployment – Example Questions
+
+Operating Systems (OS)
+
+What types of operating systems are there?
+How would you troubleshoot in said operating system?
+Containerization
+
+What types of containers are there?
+What is Docker? How do you use it?
+What is Kubernetes? What is it used for?
+How do you resolve container crashes?
+What microservices do you know of? How do they communicate with each other?
+Continuous Integration/Continuous Deployment (CI/CD)
+
+What is Continuous Integration/Continuous Deployment?
+What are different deployment policies used during deployment?
+What is Infrastructure as Code? What IaC frameworks have you used?
+ 
+
+ 
+
+ 
+
+Networking – Key Topics
+
+IP addresses
+
+Public vs. private networks
+Devices
+Protocols
+
+TCP
+UDP
+Domain Name System (DNS)
+
+DNS record types
+DNS resolution flow
+Command line tools
+DHCP
+IP address allocation
+ 
+
+ 
+
+Networking – Practice Questions
+
+IP addresses
+
+What is the difference between public and private networks?
+How do devices communicate?
+Protocols
+
+How do you use protocols like TCP and UDP in both IPv4 and IPv6?
+Domain Name System (DNS)
+
+What types of DNS record types are there?
+What is the DNS resolution flow?
+How do you troubleshoot DNS resolution issues using command line tools?
+When you boot up devices, how do you understand DHCP for IP address allocation?
+ 
+
+ 
+
+Operating Systems – Key Topics
+
+During your technical interview, you will be asked questions about either Linux or Windows operating systems and troubleshooting.
+
+Linux
+
+Networking essentials
+Port numbers
+Package management tools
+File permission adjustments
+Command line proficiency for file operations and content searches
+Windows
+
+Script execution
+PowerShell
+System logs
+Native Windows tools
+Memory management
+Windows registry
+IP configuration
+Domain Name System (DNS)
+ 
+
+ 
+
+Operating Systems – Example Questions
+
+Windows
+
+How do you execute PowerShell scripts directly from the console?
+How do you navigate system logs to understand system behavior?
+How do you leverage native Windows tools for performance and network troubleshooting?
+What are some memory management techniques you can use to free up resources for active applications?
+How do you navigate the Windows registry?
+What happens when you type a link into the browser?
+A virtual machine hosted on the cloud has crashed; how would you help your customer identify the cause of the crash?
+What is a swap? Why are swaps done? How are they configured? Do they impact performance?
+You're the administrator for a publicly accessible website running on a web server. A client contacts you and says that they can’t connect to the site. How would you troubleshoot the issue? What tools or commands would you use?
